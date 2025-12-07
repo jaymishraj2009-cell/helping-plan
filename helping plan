@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>हमारा Binary Success Plan</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>🏆 Power Binary System</h1>
+        <p>अपनी टीम बनाएं, पॉइंट्स अर्जित करें, और बड़ी इनकम पाएं।</p>
+    </header>
+
+    <main>
+        <section class="plan-structure">
+            <h2>💎 हमारा 2x2 Binary Structure</h2>
+            <div class="binary-diagram">
+                <div class="node top">आप</div>
+                <div class="line"></div>
+                <div class="branch">
+                    <div class="node left-node">Left Leg</div>
+                    <div class="node right-node">Right Leg</div>
+                </div>
+            </div>
+            <p class="instruction">हर रजिस्ट्रेशन आपके Left या Right लेग में होता है, जो आपकी टीम वॉल्यूम (Points) को बढ़ाता है।</p>
+        </section>
+
+        <section class="plans">
+            <h2>🚀 अपने Success Plan चुनें</h2>
+            <p class="rule-highlight">⚠ Gold Plan चुनने पर, आपकी पूरी Downline Team को भी **Gold Pro (1000 Pts)** या इससे बड़ा प्लान ही लेना होगा (Plan Consistency Rule)।</p>
+            
+            <div class="plan-cards">
+                
+                <div class="card bronze">
+                    <h3>Bronze Starter</h3>
+                    <p class="points">10 Pts</p>
+                    <ul>
+                        <li>बेसिक ट्रेनिंग एक्सेस</li>
+                        <li>₹2,000 / Day तक की कैपिंग</li>
+                        <li>टीम की कोई सीमा नहीं</li>
+                    </ul>
+                </div>
+
+                <div class="card silver">
+                    <h3>Silver Success</h3>
+                    <p class="points">100 Pts</p>
+                    <ul>
+                        <li>बेहतर सपोर्ट</li>
+                        <li>₹5,000 / Day तक की कैपिंग</li>
+                        <li>प्रीमियम ट्रेनिंग एक्सेस</li>
+                    </ul>
+                </div>
+
+                <div class="card gold">
+                    <h3>🥇 Gold Pro (Recommended)</h3>
+                    <p class="points">1000 Pts</p>
+                    <ul>
+                        <li>हाई पोटेंशियल कैपिंग</li>
+                        <li>**Gold Consistency** लागू</li>
+                        <li>स्पेशल लीडरशिप ट्रेनिंग</li>
+                    </ul>
+                </div>
+
+                <div class="card diamond">
+                    <h3>💎 Diamond Elite</h3>
+                    <p class="points">2000 Pts</p>
+                    <ul>
+                        <li>सर्वश्रेष्ठ कैपिंग लिमिट</li>
+                        <li>**Gold Consistency** लागू</li>
+                        <li>सीधी मेंटरशिप</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section class="join-form">
+            <h2>✅ अभी रजिस्टर करें और टीम बनाएं</h2>
+            
+            <iframe 
+                src="[YAHAN APNA GOOGLE FORM EMBED LINK PASTE KAREIN]" 
+                width="100%" 
+                height="650" 
+                frameborder="0" 
+                marginheight="0" 
+                marginwidth="0">Loading Form...
+            </iframe>
+            
+            <p>रजिस्ट्रेशन के बाद, हमारी टीम आपसे संपर्क करके आपके प्लान और नियम (विशेषकर Gold Consistency) की पुष्टि करेगी।</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>समर्पित टीम द्वारा संचालित।</p>
+    </footer>
+</body>
+</html>
